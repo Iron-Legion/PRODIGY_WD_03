@@ -45,5 +45,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or feedback, please open an issue in this repository or contact us at ashutosh.singh.tn@gmail.com.
 
 ---
-
-Feel free to customize this description further based on your project's specific details and goals.
